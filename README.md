@@ -1,1 +1,1 @@
-# LHP_28.0
+# Project Template 28
